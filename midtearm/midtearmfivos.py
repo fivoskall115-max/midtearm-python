@@ -16,7 +16,7 @@ def load_recipes():
 
         file.close()
 
-    except FileNotFoundError:
+    except :
         print("File not found. Starting with empty recipe list.")
 
     return recipes
@@ -204,3 +204,4 @@ def main_menu():
 
 
 main_menu()
+
