@@ -1,0 +1,8 @@
+id,name,cuisine,difficulty,prep_time,ingredients,category
+1,Spaghetti Carbonara,Italian,Medium,30,"spaghetti, eggs, pancetta, parmesan cheese, black pepper",Main Course
+2,Chicken Tikka Masala,Indian,Hard,45,"chicken, yogurt, tomato sauce, garam masala, garlic, ginger",Main Course
+3,Vegetable Stir Fry,Chinese,Easy,20,"broccoli, bell peppers, soy sauce, garlic, ginger, carrots",Main Course
+4,Beef Tacos,Mexican,Easy,25,"ground beef, taco shells, lettuce, tomato, cheese, sour cream",Main Course
+5,Chocolate Chip Cookies,Dessert,Easy,15,"flour, sugar, butter, chocolate chips, eggs, vanilla extract",Dessert
+6,Greek Salad,Greek,Easy,15,"cucumber, tomato, feta cheese, olives, red onion, olive oil",Appetizer
+7,Sushi Rolls,Japanese,Hard,60,"sushi rice, nori, raw fish, cucumber, avocado, soy sauce",Main Course
